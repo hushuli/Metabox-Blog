@@ -1,0 +1,8 @@
+---
+title: "Gallery of featured posts"
+listing:
+  posts:
+    - 2018-12-06-why-tukeys-test-but-not-t-test-after-anova 
+    - 2018-11-08-missing-value
+    - welcome 
+---
