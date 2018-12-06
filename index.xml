@@ -26,5 +26,14 @@ reading what we have to say!</description>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
       <media:content url="https://hushuli.github.io/Metabox-Blog.github.io/posts/2018-11-08-missing-value/fig1.jpg" medium="image" type="image/jpeg"/>
     </item>
+    <item>
+      <title>Why Tukey's test but not t-test after ANOVA?</title>
+      <dc:creator>Sili Fan</dc:creator>
+      <link>https://hushuli.github.io/Metabox-Blog.github.io/posts/2018-12-06-why-tukeys-test-but-not-t-test-after-anova</link>
+      <description>Student t-test blows the type I error rate. Tukey's test controls the type I error rate.</description>
+      <guid>https://hushuli.github.io/Metabox-Blog.github.io/posts/2018-12-06-why-tukeys-test-but-not-t-test-after-anova</guid>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      <media:content url="https://hushuli.github.io/Metabox-Blog.github.io/posts/2018-12-06-why-tukeys-test-but-not-t-test-after-anova/why-tukeys-test-but-not-t-test-after-anova_files/figure-html5/unnamed-chunk-6-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
   </channel>
 </rss>

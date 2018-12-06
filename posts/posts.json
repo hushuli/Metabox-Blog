@@ -31,5 +31,22 @@
     ],
     "preview": "posts/2018-11-08-missing-value/fig1.jpg",
     "last_modified": "2018-11-09T10:16:45-08:00"
+  },
+  {
+    "path": "posts/2018-12-06-why-tukeys-test-but-not-t-test-after-anova/",
+    "title": "Why Tukey's test but not t-test after ANOVA?",
+    "description": "Student t-test blows the type I error rate. Tukey's test controls the type I error rate.",
+    "author": [
+      {
+        "name": "Sili Fan",
+        "url": "https://github.com/slfan2013"
+      }
+    ],
+    "date": "2018-10-23",
+    "categories": [],
+    "preview": "posts/2018-12-06-why-tukeys-test-but-not-t-test-after-anova/why-tukeys-test-but-not-t-test-after-anova_files/figure-html5/unnamed-chunk-6-1.png",
+    "last_modified": "2018-12-06T13:58:40-08:00",
+    "preview_width": 1248,
+    "preview_height": 768
   }
 ]
