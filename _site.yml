@@ -19,7 +19,7 @@ output: radix::radix_article
 collections:
   posts:
     disqus: 
-      shortname: Metabox-Blog
+      shortname: MetaBox
       hidden: false
     share: [twitter, linkedin,facebook]
     subscribe: _subscribe.html
