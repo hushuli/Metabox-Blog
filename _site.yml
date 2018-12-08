@@ -17,8 +17,6 @@ navbar:
     - icon: fa fa-rss
       href: index.xml
 output: radix::radix_article
-site: radix::radix_website
-listing: posts
 collections:
   posts:
     disqus: 
