@@ -26,15 +26,6 @@
       <media:content url="https://hushuli.github.io/Metabox-Blog.github.io/posts/2018-12-06-why-tukeys-test-but-not-t-test-after-anova/why-tukeys-test-but-not-t-test-after-anova_files/figure-html5/unnamed-chunk-6-1.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
     <item>
-      <title>Welcome to My Blog</title>
-      <dc:creator>Nora Jones</dc:creator>
-      <link>https://hushuli.github.io/Metabox-Blog.github.io/posts/welcome</link>
-      <description>Welcome to our new blog, My Blog. We hope you enjoy 
-reading what we have to say!</description>
-      <guid>https://hushuli.github.io/Metabox-Blog.github.io/posts/welcome</guid>
-      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>How to deal with Missing Value</title>
       <dc:creator>Shuli Hu</dc:creator>
       <link>https://hushuli.github.io/Metabox-Blog.github.io/posts/2018-11-08-missing-value</link>
@@ -42,6 +33,15 @@ reading what we have to say!</description>
       <guid>https://hushuli.github.io/Metabox-Blog.github.io/posts/2018-11-08-missing-value</guid>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
       <media:content url="https://hushuli.github.io/Metabox-Blog.github.io/posts/2018-11-08-missing-value/fig1.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Welcome to My Blog</title>
+      <dc:creator>Nora Jones</dc:creator>
+      <link>https://hushuli.github.io/Metabox-Blog.github.io/posts/welcome</link>
+      <description>Welcome to our new blog, My Blog. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://hushuli.github.io/Metabox-Blog.github.io/posts/welcome</guid>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
