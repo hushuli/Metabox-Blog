@@ -1,8 +1,8 @@
 [
   {
-    "path": "posts/2018-12-09-new/",
-    "title": "new",
-    "description": "A short description of the post.",
+    "path": "posts/2018-12-09-just-use-benjamini-hochberg/",
+    "title": "Just use Benjamini-Hochberg!",
+    "description": "Tukey's test v.s. Benjamini-Hochberg. The latter is better.",
     "author": [
       {
         "name": "Sili Fan",
@@ -12,7 +12,7 @@
     "date": "2018-12-09",
     "categories": [],
     "preview": {},
-    "last_modified": "2018-12-09T01:17:31-08:00"
+    "last_modified": "2018-12-09T11:25:58-08:00"
   },
   {
     "path": "posts/2018-12-06-why-tukeys-test-but-not-t-test-after-anova/",
@@ -65,20 +65,5 @@
     ],
     "preview": "posts/2018-11-08-missing-value/fig1.jpg",
     "last_modified": "2018-11-09T10:19:18-08:00"
-  },
-  {
-    "path": "posts/2018-12-09-just-use-benjamini-hochberg/",
-    "title": "Just use Benjamini-Hochberg!",
-    "description": "Tukey's test v.s. Benjamini-Hochberg. The latter is better.",
-    "author": [
-      {
-        "name": "Sili Fan",
-        "url": {}
-      }
-    ],
-    "date": "2018-10-23",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2018-12-09T01:19:02-08:00"
   }
 ]
