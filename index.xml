@@ -29,7 +29,7 @@
       <title>How to deal with Missing Value</title>
       <dc:creator>Shuli Hu</dc:creator>
       <link>https://hushuli.github.io/Metabox-Blog.github.io/posts/2018-11-08-missing-value</link>
-      <description>A new article created using the Radix format.</description>
+      <description>How to deal with missing value is always the first problem we need to consider when we have a set of data with missing value. So, this article will talk about how many types of missing value and how to deal with it.</description>
       <guid>https://hushuli.github.io/Metabox-Blog.github.io/posts/2018-11-08-missing-value</guid>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
       <media:content url="https://hushuli.github.io/Metabox-Blog.github.io/posts/2018-11-08-missing-value/fig1.jpg" medium="image" type="image/jpeg"/>

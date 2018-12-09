@@ -36,7 +36,7 @@
   {
     "path": "posts/2018-11-08-missing-value/",
     "title": "How to deal with Missing Value",
-    "description": "A new article created using the Radix format.",
+    "description": "How to deal with missing value is always the first problem we need to consider when we have a set of data with missing value. So, this article will talk about how many types of missing value and how to deal with it.",
     "author": [
       {
         "name": "Shuli Hu",
@@ -49,7 +49,7 @@
       "Nov"
     ],
     "preview": "posts/2018-11-08-missing-value/fig1.jpg",
-    "last_modified": "2018-11-09T10:19:18-08:00"
+    "last_modified": "2018-12-09T14:34:43-08:00"
   },
   {
     "path": "posts/welcome/",

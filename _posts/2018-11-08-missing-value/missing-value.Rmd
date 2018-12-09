@@ -1,6 +1,6 @@
 ---
 title: "How to deal with Missing Value"
-description: A new article created using the Radix format.
+description: How to deal with missing value is always the first problem we need to consider when we have a set of data with missing value. So, this article will talk about how many types of missing value and how to deal with it.
 author:
   - name: Shuli Hu 
     affiliation: Sili Fan
