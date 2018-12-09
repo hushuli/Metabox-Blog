@@ -1,12 +1,12 @@
 ---
 title: "Just use Benjamini-Hochberg!"
-description: 
+description: |
   Tukey's test v.s. Benjamini-Hochberg. The latter is better.
 author:
   - name: Sili Fan
     url: {}
     affiliation: West Coast Metabolomics Center
-date: 12-08-2018
+date: 10-23-2018
 output:
   radix::radix_article:
     self_contained: false
