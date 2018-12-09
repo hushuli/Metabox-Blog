@@ -7,7 +7,15 @@
     <description>My Blog
 </description>
     <generator>Radix</generator>
-    <lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>new</title>
+      <dc:creator>Sili Fan</dc:creator>
+      <link>https://hushuli.github.io/Metabox-Blog.github.io/posts/2018-12-09-new</link>
+      <description>A short description of the post.</description>
+      <guid>https://hushuli.github.io/Metabox-Blog.github.io/posts/2018-12-09-new</guid>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Why Tukey's test but not t-test after ANOVA?</title>
       <dc:creator>Sili Fan</dc:creator>
@@ -34,6 +42,14 @@ reading what we have to say!</description>
       <guid>https://hushuli.github.io/Metabox-Blog.github.io/posts/2018-11-08-missing-value</guid>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
       <media:content url="https://hushuli.github.io/Metabox-Blog.github.io/posts/2018-11-08-missing-value/fig1.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Just use Benjamini-Hochberg!</title>
+      <dc:creator>Sili Fan</dc:creator>
+      <link>https://hushuli.github.io/Metabox-Blog.github.io/posts/2018-12-09-just-use-benjamini-hochberg</link>
+      <description>Tukey's test v.s. Benjamini-Hochberg. The latter is better.</description>
+      <guid>https://hushuli.github.io/Metabox-Blog.github.io/posts/2018-12-09-just-use-benjamini-hochberg</guid>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
