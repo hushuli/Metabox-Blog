@@ -5,6 +5,8 @@ description: |
 author:
   - name: Sili Fan
     url: https://github.com/slfan2013
+    affiliation: West Coast Metabolomics Center
+    url: http://metabolomics.ucdavis.edu/
 date: 12-06-2018
 output:
   radix::radix_article:
