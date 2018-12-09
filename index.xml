@@ -36,10 +36,9 @@
     </item>
     <item>
       <title>Welcome to My Blog</title>
-      <dc:creator>Nora Jones</dc:creator>
+      <dc:creator>West Coast Metabolomics Center</dc:creator>
       <link>https://hushuli.github.io/Metabox-Blog.github.io/posts/welcome</link>
-      <description>Welcome to our new blog, My Blog. We hope you enjoy 
-reading what we have to say!</description>
+      <description>This blog contains tutorial of MetDA website and some explanation of statistical analysis methods that are commonly used in metabolomics!</description>
       <guid>https://hushuli.github.io/Metabox-Blog.github.io/posts/welcome</guid>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
     </item>
